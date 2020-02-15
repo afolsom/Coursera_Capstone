@@ -1,2 +1,2 @@
-# Coursera_Capstone_Cloud
+# Coursera_Capstone
  Coursera Capstone IBM Project
